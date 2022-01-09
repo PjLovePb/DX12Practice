@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\d3d12Ex\Test1\Test1\main.cpp(4,29): error C2653: “Microsoft”: 不是类或命名空间名称
+E:\d3d12Ex\Test1\Test1\main.cpp(4,1): error C2873: “ComPtr”: 符号不能用在 using 声明中
